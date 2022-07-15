@@ -1,6 +1,4 @@
 ---
-title: Tour
-
-# Files in this folder represent a Widget Page
+title: 简介
 type: widget_page
 ---
